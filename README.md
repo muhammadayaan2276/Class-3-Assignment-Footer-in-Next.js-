@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# Footer-in-Next.js" 
 "# Footer-in-Next.js" 
 "# Footer-in-Next.js" 
+"# Class3-Assignment-Footer-in-Next.js-" 
