@@ -1,7 +1,5 @@
 //Homework:Footer(Create a footer and render it once so that it's available across all routes.)
 import Link from "next/link";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer"
 
 export default function Home(){
   return(
