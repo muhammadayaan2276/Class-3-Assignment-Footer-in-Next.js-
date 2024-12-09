@@ -6,7 +6,7 @@ const aboutus = () => {
             <br />
             <br />
             <br />
-            <h1 className=" bg-yellow-500 text-3xl text-center font-bold py-20">
+            <h1 className=" bg-yellow-300 text-3xl text-center font-bold py-20">
                 About Us Component
             </h1>
         </div>
